@@ -3,7 +3,6 @@ author = "eric"
 categories = ["book"]
 date = 2021-05-04T04:00:00Z
 description = "this is a sample description"
-draft = true
 image = "/images/tools/xd.png"
 title = "Experimential learning"
 type = "post"
